@@ -1,5 +1,5 @@
 ### Hi👋
-### I am software Developer 😎💯
+### I am Software Developer 😎💯
 
 <!--
 **GaelRS/GaelRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
